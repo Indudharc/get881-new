@@ -6,13 +6,14 @@ public class Calc {
 		("Sum="+(num1+num2));
 	}
 	public void subs(int num1,int num2) {
-		System.out.println("Diff="+(num1-num2));
+		System.out.println("Difference="+(num1-num2));
 	}
-	public void prod(int num1,int num2) {
-		System.out.println("product="+(num1*num2));
-	}
+
+	
+
 	public void div(int num1,int num2) {
 		System.out.println("div="+(num1/num2));
 	}
+
 
 }
